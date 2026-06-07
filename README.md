@@ -15,7 +15,7 @@ Comprehensive notes covering:
 ## Progress
 
 - [x] Module 01 Completed
-- [ ] Module 02 In Progress
+- [x] Module 02 In Progress
 - [ ] Module 03 Pending
 - [ ] Module 04 Pending
 - [ ] Module 05 Pending
