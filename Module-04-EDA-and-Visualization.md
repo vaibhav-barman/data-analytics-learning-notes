@@ -16465,7 +16465,6 @@ Identify
 ---
 
 ### Step 5
-
 Generate Insights
 
 Business decisions are made based on these visual findings.
