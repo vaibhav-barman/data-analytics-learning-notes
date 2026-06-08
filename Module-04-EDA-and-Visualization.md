@@ -16470,7 +16470,6 @@ Generate Insights
 Business decisions are made based on these visual findings.
 
 ---
-
 # Module 4 Completed ✅
 
 You now have notes for:
