@@ -47,7 +47,7 @@ Module-09-Privacy-Fairness-Security.md
 
 * [x] Module 01 – Introduction to Data Analytics
 * [x] Module 02 – Python Fundamentals
-* [ ] Module 03 – NumPy & Data Structures
+* [x] Module 03 – NumPy & Data Structures
 * [ ] Module 04 – EDA & Visualization
 * [ ] Module 05 – Data Preprocessing
 * [ ] Module 06 – Regression
